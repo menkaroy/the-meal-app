@@ -10,7 +10,7 @@ View Meal Details: Users can view detailed information about a selected meal, in
 Add/Remove from Favorites: Users can add a meal to their favorites list or remove it from the list with a single click.
 The app's user interface is designed to be visually appealing and user-friendly, making it enjoyable for users to explore and discover new recipes.
 
-Demo
+Demo:
 You can try out the Meal App by visiting the https://menkaroy.github.io/the-meal-app/.
 
 Technologies Used
